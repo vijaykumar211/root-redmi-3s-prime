@@ -1,6 +1,8 @@
 # root-redmi-3s-prime
 ## root redmi 3s prime ( TWRP recovery install , root super su , xposed installation )
 
+install mi pc suite setup for fastboot drivers.
+
 Steps to follow :
 
 1. Extract `TWRP-Installer-Redmi-3S.zip` , boot into flash mode and run bat file to install TWRP. Then phone will automatically boot into twrp recovery mode.
